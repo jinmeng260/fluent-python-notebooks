@@ -68,3 +68,9 @@ target/
 
 # PyCharm
 .idea/
+
+# IPython Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
